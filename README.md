@@ -2,7 +2,7 @@
 
 Мужчина, 36 лет, родился 23 февраля 1987
 
-<img src="images/image.png" align="left" width="220px"/> 
+<img src="images/image 2.png" align="left" width="220px"/> 
 
 **Контакты:**  
 +7(986)978-39-34  
