@@ -28,7 +28,7 @@ Portfolio:
 
 ## Навыки: 
 `SQL`, `PostgreSQL`, `Python`, `Pandas`, `MS Excel`, `Tableau`, `MS PowerPoint`, `Atlassian Confluence`, `A/B тесты`, `Jira`, `Redash`,
-`github`, `Jupyter Notebook`, 'Plotly', 'Numpy', `PowerBI`, 'Power Query'
+`github`, `Jupyter Notebook`, `Plotly`, `Numpy`, `PowerBI`, `Power Query`
 
 ## Опыт работы
 ### Март 2022 — март 2023
