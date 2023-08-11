@@ -41,10 +41,10 @@ Portfolio:
 — Проводил анализ бизнес-показателей: когортный анализ, воронки продаж и юнит-экономики (LTV, CAC, ROI, ARPU, ARPPU, СPM, СPC, CPL/CPI, CPA), оценку пользовательской активности (DAU, WAU, MAU).  
 — Анализировал данные A/B-тестов и применять статистический анализ к результатам A/B-теста.  
 — Готовил презентации MS PowerPoint с графиками. Работаю с библиотеками визуализации seaborn и plotly.  
-— Готовил дашборды в Tableau(ссылка на дашборды - https://github.com/usr036943/Dashboards).  
+— Готовил дашборды в Tableau ([ссылка на дашборды](https://github.com/usr036943/Dashboards)).  
 — Самостоятельно изучил Power BI (проводил АBC-XYZ-анализ). Пишу запросы на DAX.
 
-Ссылка на моё портфолио - https://github.com/usr036943/yandex_practicum_projects
+[Ссылка на моё портфолио в GitHub.](https://github.com/usr036943/yandex_practicum_projects)
 
 ### Март 2017 — сентябрь 2022
 
