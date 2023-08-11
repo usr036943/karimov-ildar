@@ -119,6 +119,6 @@ Portfolio:
 
 [Сcылка на резюме в hh.ru](https://ufa.hh.ru/applicant/resumes/view?resume=3ec90ef6ff0bc734450039ed1f375047543647)  
 
-[Скачать резюме в формате PDF.](https://drive.google.com/uc?export=download&id=1UyJiRUSKpVgQR2zFhrFLryezbtlRqe07)
+[Скачать резюме в формате PDF](https://drive.google.com/uc?export=download&id=1mx922XmmbnrJ5spr1C1pwLxPUa9exW_q)
 
-###[Наверх](#каримов-ильдар)
+[Наверх](#каримов-ильдар)
