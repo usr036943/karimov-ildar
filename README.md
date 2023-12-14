@@ -120,8 +120,8 @@ Portfolio:
 Увлекаюсь самообразованием (проходил различные тренинги и курсы), чтением книг,
 изучением истории.
 
-[Сcылка на резюме в hh.ru](https://ufa.hh.ru/applicant/resumes/view?resume=3ec90ef6ff0bc734450039ed1f375047543647)  
+[Сcылка на резюме в hh.ru](https://ufa.hh.ru/resume/89fc71a6ff0c36affe0039ed1f686272377a59)  
 
-[Скачать резюме в формате PDF](https://drive.google.com/uc?export=download&id=1mx922XmmbnrJ5spr1C1pwLxPUa9exW_q)
+[Скачать резюме в формате PDF](https://drive.google.com/uc?export=download&id=1XMnzhZobO3IZoNQwVEmDjfubMavozL-6)
 
 [Наверх](#каримов-ильдар)
