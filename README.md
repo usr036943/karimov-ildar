@@ -27,8 +27,8 @@ Portfolio:
 Уфа, готов к переезду, готов к командировкам.
 
 ## Навыки: 
-`SQL`, `PostgreSQL`, `Python`, `Pandas`, `MS Excel`, `Tableau`, `MS PowerPoint`, `Atlassian Confluence`, `A/B тесты`, `Jira`, `Redash`,
-`github`, `Jupyter Notebook`, `Plotly`, `Numpy`, `PowerBI`, `Power Query`, `Анализ данных`, `Подготовка презентаций`, `Визуализация данных`, `Навыки презентации`
+`SQL`, `PostgreSQL`, `Python`, `Tableau`, `MS PowerPoint`, `Atlassian Confluence`, `Jira`, 
+`github`, `Jupyter Notebook`, `Подготовка презентаций`, `Навыки презентации`
 
 ## Опыт работы
 ### Октябрь 2022 — по настоящее время
